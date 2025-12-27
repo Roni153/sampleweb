@@ -1,91 +1,88 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title> links </title>
-        <h2> VIRAL LINKS </h2>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Viral Links</title>
+</head>
 
-    </head> 
-    <body>
-        <a href="https://x.com/0xroneeth">X (Twitter)</a>
-        <img src="https://pbs.twimg.com/profile_images/1991250595794345984/T4yYOalD_400x400.jpg" alt="X Profile Picture" height="100"> <br> <br>
-        <a href="Rndomshit.html">Go to About Me Page</a>
-        <a href="https://ethereum.org/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX7xYCIc2gu2Ioy9Jfa4Pnn29ggsCeHaxYYg&s" height="50 "> </a>
-  <Br>
+<body>
+
+    <h2>VIRAL LINKS</h2>
+
+    <!-- Twitter Link -->
+    <a href="https://x.com/0xroneeth" target="_blank">X (Twitter)</a><br>
+    <img src="https://pbs.twimg.com/profile_images/1991250595794345984/T4yYOalD_400x400.jpg"
+         alt="X Profile Picture" height="100">
+    <br><br>
+
+    <!-- About Page -->
+    <a href="Rndomshit.html">Go to About Me Page</a><br><br>
+
+    <!-- Ethereum -->
+    <a href="https://ethereum.org/" target="_blank">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX7xYCIc2gu2Ioy9Jfa4Pnn29ggsCeHaxYYg&s"
+             alt="Ethereum" height="50">
+    </a>
+
+    <hr>
+
     <form>
-    <input type="text" placeholder="username">
-    <br>
-    <input type="password" placeholder="password">
-    <br>
-    <input type="submit" value="Login">
-    <lable for="69">
-        <br>
-    <input type="radio" value="gay" name="personlity" id="69">GAY
-    </lable>
-    <br>
-    <lable for="96">
-    <input type="radio" value="sigma" name="personlity" id="96">SIGMA
-    </lable><br>
-    <br>
-    <div id="id1" class="group1">
-      <a href="https://www.forbes.com/profile/vitalik-buterin/"> <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUTEhIQEhUVFRcVEBAVEhUVFRAQFRIXFhUVFRUYHyggGBolGxUVITEhJSkrLi4uGB8zODUtNygtLi0BCgoKDg0OGhAQGisgHSUtLS8rKy0tLS0tKystLS0xLS0tLS0tKy4tLS0tLTAvLy0tMDctKy4uLSsvKy8tLzcuK//AABEIALUBFwMBIgACEQEDEQH/xAAcAAADAAMBAQEAAAAAAAAAAAAAAQIEBQYHAwj/xABCEAACAQIEAwUEBgcHBQEAAAABAgADEQQSITEFQVEGImFxgRMykaEHQlJiscEUI3LR4fDxJDNDU3OCkhU0g6KyJf/EABoBAQEAAwEBAAAAAAAAAAAAAAABAwQFAgb/xAAxEQEAAQMBBgMHAwUAAAAAAAAAAQIDEQQFEiExQVEyocEjYYGRsfDxInHRExQkM6L/2gAMAwEAAhEDEQA/APNVgTEDpBWm48kDrGREN42ECZXKBEDtAawJiB0grQEDrKIkjeNhAmVygRDlAawJiUwVoyFfWURJ5xsIEyuUCIcowBIzEpiVoyC+soiTzjYQJlDaBEOUQBIyYlMStGQX1lESecbCBMobQIjG0YCSUZKmCtGQiZREk7ymECISiISYDsItIESZZFGK5jO0awFrARkyQdYFWEWkZEiJFERXMfKNIC1heMmSDrAqwi0lLTLEABmYkBVUEszHQBQNST0E7CvSwnCFy4inRxuPbX2Dd/D4FSqsoqqdKlQ3v4aW6tKpwNdwnsTjcRTWslJadFhcYmtVSlTC/aNzmy+IU3mfS4Jwql3cTxGpWfmcEKZpU79atUEObam1rbTn+I8VqcQqiriKgLaIiBMqog2VNgqjew1Nuuo+tCiqAgWcAEBqrKaQUkd4U1AOY67m/TpPE1SrpMH2f4RmKNxKrVYgsjrhXVKa8g/Nm8pl4v6Lq6swpipXTQ06ytTAdCAbhSb33E5PGYCmqK1Gm7VCDoNFAto7KbFSbg2OwGtjPrjHUFWV2DhRmVahAWpYN3CRrrYabWb1w10VVcqphsWr8Uc6Kao98esYlGO7L4ikxV0KHkHzKW8rjWa3EYJ099GA67j4jSdh2d7eY0UsrqMVSXWqlYmpob7B7kgZSLDbSb/FYehicM2LwyeyKZf0ihmzIA5yh6Z89CvL8cN27fsxvcKoj4S2tPb0moqi3xoqnlPOM+U+bygiK5m74/gVUB0Ww+vYaDobcppkm1Yv03qIrpaur01emuzbq/JaxXlGSDrMzWVYRaRkSIkVaK5jG0EgGsVzKMm8CrCLSMiREirRXMY2gkA1ilmKMBMIERXMLmAztAHSK8dhAFaIbx2ECIARAiK5juYAdoKYrx2EAVoucdhOi+j7h4rcQw9wMlN/b1Sdkp0e+WPhcKPURPCBvMo4PTCgt+n4hKWasaS+z4bScsWUO3+Iy76W7vIC84HimDLVQQ7tn77VHzFmcklj3tWOgN7nfedT2iririKtWqWyOzMA92JDNZbKTobHwAtNacVh0QmnmFTOANthc2H2QDc9T3Zh5q+FGiKVwzWKgKCb6L9ew68reMmuFXvkgtoWtuw00W2w01J/A61UWo/1RZjcnLuwFyBbzHxi/wCk1iMzBhcki4Op10t10Mowv0g3JvqeWuvRflJok3ubgjfz/fOh4VwV3BLLciwUWvdr+G2+56TeUexDEp3TlsM22psSdPgIyOawXEbaBCBpoLDQKVI8b9PCdn2Z44tBjoTTcZatJ9qibEMDpex3/fNtwfsYiMWa128BYb8htvMXtV2WqU1z0jm07yDcgC3xsd/CeZxPAjMcWN2h4OKRDJ+sw1YE0X3up3pv0Yba7287efcSwBot1U+4fyPjPQuxHERXzYKoQadcdw/5OIy5kYfALbfUbiaDjGGzU3VhYrc26On9CJyozo78Y8FXl+H0dMxtLSTvf7KI59/zj58XHq0XOOwhadx82GECIrmFzAY2ghivHYQErQ5x2ELQBhAiK5hcwGNoIYrmPKIAGijsIRxDWBMQOkFaAgdZREkbxsIEyuUCIHaA1gTEDpBWgIHWURJ5xsIEzrvouf8A/QSlyxFKvQbwVqDv+NMTkyJ1n0WkDiVAfWK1hTPSocNUsfhceskxwkafjDggMBcX16qNLEfAnwzCYPCsKKjAk2Ga5Hn4+nzmIuMuljuRcnncjb4ifTBVMja3sATcczrb0vaY1ev4fsxQyi7G42Atpe1/O9t5m/8ASqCgaEWGt2JBPjfn4zn+DcTqMgvfQAeJHIzrcHh8yZnOUW1Y9J4kfDD1VU90eh2tNmlTwt6fhNFjuK4Ok2tWlcbEkfhMrCcepvtlYcmBgbcMb6TIeqWsCJpzxdV1NgBvJwXbbBO2Qucx0BykD4mTA4fHU/0PiRq6CmK9OroNtS5H438LTO7U4XJi8Qh29ox9Knft8GmD2/xH9pqLoVBpujX3RkW5t0vcTbdpnz/otQ+/UwdF6l9ybMAx8SAJz9p05tRV2l3NgV41E0d4+jyuomUlTuCQfMG0BtMrin97U0+sflMXlOtbmaqYmesONdpiiuqmOkzASMxKYK09sZX1lESecbCBMobQIjG0BJKMlTBWgImURJO8bQJhKI0hJgFhCwgVkyiiIrmM7RrAVzAGMmSDrAdhCwgRJgURFcx8o0gK5my7MY80MZhqo0yVqZP7BcBx6qWHrNcTMrguEFfE0KLGwq1qVJje1lqVFQ2PWxMSJ7Y8NahxDGUUViqVqhsqk5aTnOl7bCzAek1lGtrt/SetduKtZ8VX9k2RSWz0xoKpprkLPb3msgFzfQCeWV8KL3Fgb6oDexP5TDHJXc9knU2DC2pvY62HQfGV2p7UMe5TD2vlAFz4anYCZH0f4K65n113O+a3XpsZ3VbgFGqpBAvzsBf16yTPEeHYjB4rvP7MAAZibZiwvbuk+8fATZcAr4gMoZWVW6i1/TlO/wAd2TVb90sPF2IHjlJmFwfgAqV7G+RdSOZ6ACXI1PbTDYtGRaN/ZMilq/JWYm4PlYfGanhXZ/GOCyVabOCCtM1FIqDW9j9U+7p4nWe1Yvh6soBRco3UAEBbWsR0Fpi8P4XSRg1NKa665QAbegnneHmHaxaiGktVCrGgoIO9/aVQdfIj5Tf9olsMGOmAww+CtN/224SK74ay5s1UU3AP+GxUt8lb4zn+2+JH6VXNxlp9xQNlSmgGUDwIM5+0pzainvLtbCj/ACJr6RTLzXG1M1RyNQWax6i+k+N45N9Z1qad2Ihxq6pqqmqep2ELCMiRPTyq0VzGNoJALmF5RMi+sB2ELCMiREiiIrmMbQSAXMUsmECSIEQuYXMAO0AdIrx2EAUxDeOwgRAGECIXMLmAHaCmF4WEAVpVGqUdXQ5WVgyN9l1N1I8iAZNhAiB7LQr08fSXF0xb2l0xNIG5w+KKDOBzytYODz8zacViOAV8PVuuGqVqVUhKpUBzTJb3u7ci299rEzU9le09XAVGdVFWm4y18OSQKqjUWI91wb2bleegdru0aUq3sXos6VKS1sNib61KDUwx2tmIa66X5Xte8wzGJVgcGDU0IXkbqRsQQDf5n4Tc0eO1MhcU6uQaM+Vstxp7+1/Ca3s1lehs2hZe9pfvZl0B6NbflNrX47WQClamqBcigXAIy2II531kkfGlxd3vrodvAdJq+L8Yx2DVvZUgwc5hXse7e2jEA2n0AbLamFLaWuSB5HQmTjOJ8SIyMmGop1H6wnTclh+QgYXZ7tLjq/dWorVr/WdmVUNrlhptY2F52VUVKVa5a4qatbYPbXTxtectwxK5YWxVBGO5TDAsQOWa6n4zqMLg6y5TWr+23/wwltdNibmSRvcAQT7Rvdp3c+AVSZ432lx11dmPeqsSR+02Z/x+c9Q7SVjSwL5TY1HWkx+4VZmA8wLGeN9pmBdB0Un4n+E0K8XNVRR24u3pYmzoLt6OdX6Y9fr5NOrQ5wsIWnXcMNAiFzC5gA2ghivHYQBWiO8dhC0AaBGkMxhcwAbQQxXjsIAGijsIRxDWBMQOkFaAgdYysQ3jYQJlcoMIHaA1gTEp0gpgIHWUVk842ECZXKBEOUBpO37BY9cU9LhmLp+3oMzNQb2hSphXWm7kU2GpRgpXJ96cOpmRwx7VqXhVpkHoRUBEkxExgdecTVwhCur0yVRijizIQtgD4jY+IiwvFWqOVqHf3fA9BOt+kvgrVqjOgBYEqRf1/P8ACebJTamQr38jyPMTFHFXonC8Lre4P5zcNhQdGtbxt/PWeXPxKqvuVG8r/nPpS4xiDuWPhf5+cmB6Xh6NCm2gAJOpmzepTt3TmbkALktyAHXwnm3D6+Kqnuquh94tZRyAM6fFYhsAgXPnxVZA5qW7mGpNcWp33c2IzEaDpzxXrlNqneqZ9Np69Rci3RzljfSDxdKNOlh2ILITUrAG967CwQHqqk38xPKMXWNRy7bn5DkJ9uL12es5Zi1mYC5v9bX5zEaXTWYjN2rxVeUdmbVX53Y09Pgp856zPp2hMobQIhym3DRCRkxIYK0BX1lESTvG0CZQ2gRAbQBIyYlMFaAiZRWSd5TQIMJVtISYDyiKwgVkyyKIizGM7RrAVzAGMmSDrArKIrCBWTEiiIsxj5RpAVzC8ZMkHWBWUTK4RSzYigo3atSUebVVA/GYj2GpNh1npX0T9kahqLj66FadO5wqsCDWqkWFSx+ooJIPM2I21lU4gdr2hu1SoF+0R5WNjPPe1XBzfOlz9vw8fKej4rQnxJ16zWVqG5mCJV47iaboSCNv5vPvw1izAFiBcaDnOw4two1GuBqNBpy6eE+fBuzANQF2CENf2YGrWnrI6rBcOyoiroNzMHt9/wB0o6UKQ+RP5zpsOlgo8xOf+kHCOKy1crezalTHtLHLnFwVJ2B0Gk5u0ombPxdnYUxGq49p9HkOMH6xz99v/oz4ZjNlxfAOjO1rqWJDDW1zfXpNck6diumuiJpno5mptV27tVNcYnMi5heMmSDrMrArKIrCMiREirRZjGNoJALmK8oyb6xIrKIrCMiQYkURFmMY2gkAuYpZigJhBhFmMdzADtAbRXvHlEAVohvHlECIAwgRFmMdzADtBTFfl109eQnV8H+jviGIsfY+wQi/tcQfZDfbLYvf/bJM4HKq06Dsl2QxGPe9Mezoj+8xTg+zWxsQv+Y33R6kT0bgH0c4PC9/EEY2pbSmyBaCn/TJvUPLvaeAm945xXupTUgZiEVBYBF2NgNBpMc3OysHgnZvA8O/W0levWGgr1rEoefs0AATzte3OdTTxy1UDKSb733BG4M53iFSwAN7Hcek1eH4g9FiVvlO4INmH5GY54jecS5n+bzWrWsbT6HitOta/cI3U7E+DT4vQF7/AAMC6irKwuEQuGO/Iz51rW1mNgqyFtDmt47QOmYgbT6YrGZAoNmVlYOjC6sAVtdT5mY7VUXVmVRbmQJr3xPtWsNRsvgNf59B0kwrG4n2ao4gF8JlpVfrYcnuP+wfqHfTby1nnvaDss9NrPTag55MLI/kRp6idfjcW2FxROuQgX/Z6jxBvOmbjihQKqipSbYsgemRa40O375qzpd2rftTuz5T8HTt7Smq3/S1FO/T/wBR+0vA8Tg6lL31IH2hqvxmNzn6Br8GwNVQ/sMoO1Sg5Uf8D3flNDj/AKPMPV1oVaZb7FVQjH/yJz9JmjUXqY/XRn3xPpP8sM2dNcn2dyafdVHrGfo8daBGk6/jfYqrQPfSpS6FhmpnycafMzm8Vw+rT95bj7S6j+HrMtvV2rk4zie08Jeb2gv2qd7Gae9PGPL1Yg2ghivHlmy0gpiO8eUQywBoEaRZjHcwAbQQxXjyiABoo8ohHENYExDaCtAQOsbCIbxtAmVygRA7RAazd9l+zdXHVGVGSlTpgNXxFT3KSk2Gn1mJ2W4vY6iYPAuF1MXXp4elbPUawJ2RbXZ2+6oBJ8us9poUaOFoLhcP/dp7zaZsRU+tUfbU8hyFugA81VYgfDs1wnh+DP8AZcleuPexNQq1QdRTXamPLXrebPE4wsdSzHzM5XivD0bvAFGHu1EOVl15Hz5HTwmVwLjmb9XWI9otu/YWqLybwvbbkb+uHmrf5NMwC0+Z0Go8bCc3w4tUxZZ3BVCSl9zcmw9Pym94ljFVPPQD85oeF2/SgRsQ1xpvff5CIH343jD7dKa73ANvnMupSBGUgHppeazi9BWqh9QRppzvKpVCttfSBdXhutu8pOx5eg6yXwj01zIS4G4QnMPQfxmU2OSovdIJXRx06H+kxhVa90JHUb3gY+HxZqaBnYjdc63+DWmPWwzX0SsniLD5LvNnXwS1+8LLUHMWF/MgzGXE1qfcb2g6knfylH2wOCC+8DfyF9eZBNxNlRQIV356nlbb+kw8DjEX3xofK5+UzmCmzI2l9V6eUgjj2Dp16drgOo7puPOx8Jp+yHFMpbDVRcalAev1l8ufn5zcYlAQT+U5LiFPJUFRLggg3HUbH8Igbc8T/QsR3MxouLmkdlJJvadcHpVEFRQrD8Jx2LpLXXNYfrBdT9l195fz9RMTg2OqUGCm4W5Vhy1AjA9EocS+oNQTYqdVIAF7g+c47td2cNFjWoreg2pA19gx3VhyXoduXS/2wXFAjAE6tdvQsQPwnTYTHkC5sQRqDswOhBHOa2o01N6nE8+kt3Q66vS171PGJ5x3eD8W4UUJdBdNyOafwmsInr3a/gSUrV6H9y7ZWT/JqWvl/ZOtum3SeZcdwPs2BUWVr6fZbmPL+M86TVVb/wDQu+LpPdua7RW6rX91p/BPOO0/f3hq5Q2gRAbTpuKElEyVMFMBEyiJJ3jaBMJWWEgMohlECsmUURaGYwO0awFmMLxkyb6wPQvovoClSxmLPvAJhqR5g1Dnq/8AqKc2NfFnXMDbmwvdfG0tcIcJw/C4a1nqf2rEeFSqvcU+KpYekww4YdGHvDTXxmGeM5UqvEalMd61WlzZffUdfEeXwmHj0ylHpNnuC1Jtgw0zITy5etjLqApcqLr9dBuPvL0MwyfZar3qLm5A+o320HI66rCNtS4mGp5nJAUgsfsa5TceBtf1mz4PQtiKpJ0VRbpZhy/4n4zmA4WpZtadQWccjmFifIjn4ToezbkowJu1IGjUf7QQ/q2PiVINvEySqsfVuwGmrD8Z9qtIkA6zXe2vWF9QL/Gxm5Vxtv8Au9YGAgsdvO2/lPqo8yP55TJqIOg+cx6qW5W/nrIJbEmm3gdjYnXxAmWtb2g2v6eExXUMNfT93jPhTq5NSTpvvrAzGwoPVfzn1wtLIbX056TNq4BMoKFswzCojbBlVS4XoVzgEeBOwMxlv/NzA+7vblv+6aDilL3vEaTfI9wQfnvNdWp3vsQemsQMDgRNSm9NTZwM1L/UA0+O3rKo4lMRTZlGV9M67WcHXTlvNdwZildlOlw4A+9Y2+cnCvlxSVV9zE3FVeQq2OZh0NwGP7co+fFKxFZFXcFB+Fx8zOqp4u5VAdgCZyOHqCrXapvqWX/cbL8jM/g+IY1KrC+pCUz96xufIA3/AKxI7PCg4ihi6e4ZSaIP26IBB/5Kw9J5fx6nmok/ZIYfGx+RM9X7NEU2QaWHdN+hFjf4zz/jnDDTerh3BGUsn+0+63qCDOVrfZ3bd3tPH7+b6HY/tbF7T94zHyx/Dz/MYZp9K1MoSrDUGxnyvrO3mJjMPnpiYnE8zyiFhGVkSyiiIZjAbQSAZjFLMUCWMbCKEBnaC7QhAamfXA4cVKtOmdnqIjfsuwU/IwhHQew9sO9Xq35NlHgFAUfITnK91GcbgehHQwhMEKTG4Daaj4TXV+6wH1ajWZejEe8PjtzhCVHxY/qnU2OQ9xuam/L1sbecvgAzYj2tzc0irC+huykX621+MIQrOV/1x294j4m35zfUjtt/HrHCSR9jVtuL/AflPnU1F7CEJBFJ59sKneL86SGoByZlF1B8L2JHMC0IQMfDYlvZBszZhXzZr65mp3J8+4Js61IAKw0DjNl5Kc5UgeFwbDkDbXeOESCiO9/PSa7iKZSSNLHlpvCEDT4o2ZKo94OL/esRvMHEDKHA/wAKuQnl3l/IfCOE9QjWcPqkLcbsT6AaWHxPy6TpeCoFAPmB4DNr6ki/w6QhEq6vhb31k9tsIr4eniDpUR/Yk/5iEErfxH5mEJp62ImzVlv7MrmnV28T1x83l3aLCiwqbEWU/eHL4TniNYoT1syqatPGektjblFNOrndjGYiZ/c2MCNIoToOOY2gkIQBTCEJYH//2Q==" alt="Vtalik Buterin"></a>
-   <br> <miiddle><mark>VITALIK BUTERIN</mark></miiddle>
-   <br> <h4><mark><big>PERSONALITY</big></mark></h4>
- <lable for="Gay">
-    <input type="checkbox" value="Gay" name="personality" id="69">GAY
- </lable><br>
- <lable for="SIgma">
-    <input type="checkbox" value="sigma" name="personality" id="69">SIGMA
- </lable><br>
- <lable for="mitha">
-    <input type="checkbox" value="mitha" name="personality" id="69">MITHA
- </lable><br>
- <lable for="Muthhal">
-    <input type="checkbox" value="muthhal" name="personality" id="69">Muthhal
- </lable>
 
-    </div>
-    <div id="id2" class="group1">
- <br> 
-<a href="https://www.forbes.com/profile/elon-musk/"> <img src="data:image/jpeg;base64,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" alt="elon musk">    </a> 
- <br><miiddle><mark>ELON MUSK</mark></miiddle> <br>
-  <h4><mark><big>PERSONALITY</big></mark></h4>
-    <br>
- <lable for="Gay">
-    <input type="checkbox" value="Gay" name="personality" id="69">GAY
- </lable><br>
- <lable for="SIgma">
-    <input type="checkbox" value="sigma" name="personality" id="69">SIGMA
- </lable><br>
- <lable for="mitha">
-    <input type="checkbox" value="mitha" name="personality" id="69">MITHA
- </lable><br>
- <lable for="Muthhal">
-    <input type="checkbox" value="muthhal" name="personality" id="69">Muthhal
- </lable>
-</div>
-<br> <br>
- <mark><big>PERSONALITY</big></mark>
-    <br>
- <lable for="Gay">
-    <input type="checkbox" value="Gay" name="personality" id="69">GAY
- </lable><br>
- <lable for="SIgma">
-    <input type="checkbox" value="sigma" name="personality" id="69">SIGMA
- </lable><br>
- <lable for="mitha">
-    <input type="checkbox" value="mitha" name="personality" id="69">MITHA
- </lable><br>
- <lable for="Muthhal">
-    <input type="checkbox" value="muthhal" name="personality" id="69">Muthhal
- </lable> <br>
- <textarea name="feedback" id="22" placeholder="Give you'r fucking review madafucker"></textarea>RATE US
-<br><select name="rate" id="45">
-    <option value="69">69</option>
-    <option value="500">500</option>
-    <option value="905">905</option>
-    <option value="6569">6569</option>
-</select>  
-<br><input type="submit" value="SUBMIT" id="56">
-</form>
-    </body>
-    </html>
+        <!-- Login -->
+        <input type="text" placeholder="Username"><br><br>
+        <input type="password" placeholder="Password"><br><br>
+        <input type="submit" value="Login"><br><br>
+
+        <!-- Radio Buttons -->
+        <strong>Personality (Select One)</strong><br>
+        <label>
+            <input type="radio" name="personality_radio" value="gay"> GAY
+        </label><br>
+
+        <label>
+            <input type="radio" name="personality_radio" value="sigma"> SIGMA
+        </label>
+
+        <hr>
+
+        <!-- Vitalik Section -->
+        <h3>VITALIK BUTERIN</h3>
+        <a href="https://www.forbes.com/profile/vitalik-buterin/" target="_blank">
+            <img src="data:image/jpeg;base64,PASTE_YOUR_IMAGE_HERE"
+                 alt="Vitalik Buterin" height="150">
+        </a>
+
+        <h4>PERSONALITY</h4>
+        <label><input type="checkbox" name="vitalik_personality" value="gay"> GAY</label><br>
+        <label><input type="checkbox" name="vitalik_personality" value="sigma"> SIGMA</label><br>
+        <label><input type="checkbox" name="vitalik_personality" value="mitha"> MITHA</label><br>
+        <label><input type="checkbox" name="vitalik_personality" value="muthhal"> MUTHHAL</label>
+
+        <hr>
+
+        <!-- Elon Section -->
+        <h3>ELON MUSK</h3>
+        <a href="https://www.forbes.com/profile/elon-musk/" target="_blank">
+            <img src="data:image/jpeg;base64,PASTE_YOUR_IMAGE_HERE"
+                 alt="Elon Musk" height="150">
+        </a>
+
+        <h4>PERSONALITY</h4>
+        <label><input type="checkbox" name="elon_personality" value="gay"> GAY</label><br>
+        <label><input type="checkbox" name="elon_personality" value="sigma"> SIGMA</label><br>
+        <label><input type="checkbox" name="elon_personality" value="mitha"> MITHA</label><br>
+        <label><input type="checkbox" name="elon_personality" value="muthhal"> MUTHHAL</label>
+
+        <hr>
+
+        <!-- Feedback -->
+        <h4>RATE US</h4>
+        <textarea name="feedback" placeholder="Give your review" rows="4" cols="40"></textarea>
+        <br><br>
+
+        <select name="rate">
+            <option value="69">69</option>
+            <option value="500">500</option>
+            <option value="905">905</option>
+            <option value=
+
