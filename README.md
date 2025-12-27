@@ -84,5 +84,14 @@
             <option value="69">69</option>
             <option value="500">500</option>
             <option value="905">905</option>
-            <option value=
+            <option value="6569">6569</option>
+        </select>
+
+        <br><br>
+        <input type="submit" value="SUBMIT">
+
+    </form>
+
+</body>
+</html>
 
